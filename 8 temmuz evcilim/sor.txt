@@ -1,0 +1,4 @@
+css dosyalarını styl'e a geçirme
+divlerin arkasına resim koyma
+tıklama efektleri ve sayfa geçişleri 
+sayfa animasyonları 
